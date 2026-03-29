@@ -43,7 +43,7 @@ const config = {
     CHANNEL_LINK: 'https://whatsapp.com/channel/0029Vb7GtMHAInPngEYONu0g'
 };
 
-const octokit = new Octokit({ auth: 'github token' });// ඔයා 𝚐𝚒𝚝𝚑𝚞𝚋 𝚝𝚘𝚔𝚎𝚗 එකක් අරන් ඒක දාන්න
+const octokit = new Octokit({ auth: 'github token' });//
 const owner = 'your username';//ThanujaDilshan-LK
 const repo = 'repo name';//THANUJA-X-MD
 
