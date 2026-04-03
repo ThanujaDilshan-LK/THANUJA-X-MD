@@ -1,0 +1,25 @@
+{
+  "name": "THANUJA-X-MD",
+  "description": "WhatsApp Multi-Device Bot by Thanuja",
+  "repository": "https://github.com/ThanujaDilshan-LK/THANUJA-X-MD",
+  "logo": "https://telegra.ph/file/0c9c7e7b5b5b5b5b5b5b5.jpg",
+  "keywords": ["bot", "whatsapp", "node.js"],
+  "env": {
+    "SESSION_ID": {
+      "description": "ඔයාගේ Session ID එක මෙතනට දාන්න",
+      "required": true
+    },
+    "OWNER_NUMBER": {
+      "description": "ඔයාගේ WhatsApp අංකය (උදා: 947XXXXXXXX)",
+      "required": true
+    },
+    "PREFIX": {
+      "description": "බොට් වැඩ කරන ලකුණ (උදා: . හෝ !)",
+      "value": "."
+    }
+  },
+  "buildpacks": [
+    { "url": "heroku/nodejs" },
+    { "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-static.git" }
+  ]
+}
