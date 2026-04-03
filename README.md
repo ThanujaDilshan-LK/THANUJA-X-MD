@@ -12,7 +12,16 @@
   <a href="https://github.com/ThanujaDilshan-LK/THANUJA-X-MD/blob/main/LICENSE"><img title="License" src="https://img.shields.io/github/license/ThanujaDilshan-LK/THANUJA-X-MD?color=yellow&style=flat-square"></a>
 </p>
 
+--- ## 🚀 Deployment & Session
+
+ගිණුම සම්බන්ධ කර ගැනීමට සහ බොට්ව පණ ගැන්වීමට පහත බට්න් භාවිතා කරන්න:
+
+| පියවර 01 (Get Session) | පියවර 02 (Deploy to Heroku) |
+| :---: | :---: |
+| [![Pairing Code](https://img.shields.io/badge/Get-Pairing%20Code-blue?style=for-the-badge&logo=whatsapp)](https://pair-thanuja-x.onrender.com) | [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy/?template=https://github.com/ThanujaDilshan-LK/THANUJA-X-MD) |
+
 ---
+
 
 ## 🌟 About
 
